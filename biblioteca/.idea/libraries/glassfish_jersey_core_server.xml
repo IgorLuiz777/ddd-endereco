@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="glassfish.jersey.core.server" type="repository">
+    <properties maven-id="org.glassfish.jersey.core:jersey-server:2.36" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.36/jersey-server-2.36.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.36/jersey-common-2.36.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/osgi-resource-locator/1.0.3/osgi-resource-locator-1.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-client/2.36/jersey-client-2.36.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/ws/rs/jakarta.ws.rs-api/2.1.6/jakarta.ws.rs-api-2.1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/external/jakarta.inject/2.6.1/jakarta.inject-2.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

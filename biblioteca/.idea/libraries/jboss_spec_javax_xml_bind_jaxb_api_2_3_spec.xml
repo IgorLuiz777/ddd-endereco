@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jboss.spec.javax.xml.bind.jaxb.api_2.3_spec" type="repository">
+    <properties maven-id="org.jboss.spec.javax.xml.bind:jboss-jaxb-api_2.3_spec:2.0.0.Final" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/2.0.0.Final/jboss-jaxb-api_2.3_spec-2.0.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
